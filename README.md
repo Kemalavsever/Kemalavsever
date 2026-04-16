@@ -25,7 +25,6 @@ Yazilim ve yapay zeka alanlarinda kendini gelistiren bir yazilim muhendisligi og
 |------|----------|
 | [RST-Yaz-Staj-Projeleri](https://github.com/Kemalavsever/RST-Yaz-Staj-Projeleri) | Radar staj projelerinin tamamı: CNN siniflandirma, LFM sinyali, YSA modelleme |
 | [Alzheimer-detection](https://github.com/Kemalavsever/Alzheimer-detection) | MRI goruntularinden Alzheimer tespiti (derin ogrenme) |
-| [XOR-ile-Goruntu-Sifreleme](https://github.com/Kemalavsever/XOR-ile-G-r-nt-ifreleme-ve-zme) | XOR ile goruntu sifreleme ve cozme |
 | [karbontarla](https://github.com/Kemalavsever/karbontarla) | Ciftciler ve sirketleri emisyon azaltiminda bulusturan platform |
 | [youtube-downloader](https://github.com/Kemalavsever/youtube-downloader) | YouTube video ve ses indirici |
 
